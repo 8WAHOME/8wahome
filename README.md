@@ -122,7 +122,7 @@ I'm a software engineer in Nairobi who builds **full-stack web applications, RES
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-8WAHOME-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/8WAHOME)
-[![Website](https://img.shields.io/badge/Website-goaltract.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://www.goaltract.com)
+[![Website](https://img.shields.io/badge/Website-recoverytrails.org-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://www.recoverytrails.org)
 <!-- Add once you confirm the URLs / address you want public:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
