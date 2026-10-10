@@ -3,12 +3,12 @@
 <img src="./assets/banner.svg" alt="Wahome Ndiritu: Software Engineer, Full Stack Developer, AI and Automation, based in Nairobi, Kenya" width="100%" />
 
 <a href="https://github.com/8WAHOME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Building+full-stack+web+applications;Designing+and+integrating+REST+APIs;Automating+workflows+with+n8n+and+AI" alt="Typing animation: building full-stack web applications, designing and integrating REST APIs, automating workflows with n8n and AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Building+full-stack+web+applications;Designing+and+integrating+REST+APIs;Automating+workflows+with+n8n+and+AI" alt="Typing animation: building full-stack web applications, designing and integrating REST APIs, automating workflows with AI" />
 </a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-goaltract.com-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://www.goaltract.com)
+[![Website](https://img.shields.io/badge/Website-recoverytrails.org-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://www.recoverytrails.org)
 [![GitHub](https://img.shields.io/badge/GitHub-8WAHOME-58A6FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/8WAHOME)
 ![Location](https://img.shields.io/badge/Nairobi-Kenya-58A6FF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117)
 
